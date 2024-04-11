@@ -1,0 +1,21 @@
+section
+{
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    background-color: rgb(197, 226, 255);
+}
+
+article
+{
+    border:2px solid rgb(255, 30, 0);
+    margin: 100px 20px;
+}
+aside
+{
+    border: 1px groove rgb(0, 255, 179);
+    margin:auto;
+    width: 300px;
+}
